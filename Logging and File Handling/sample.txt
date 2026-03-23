@@ -1,0 +1,5 @@
+name=Shiva
+age=29
+city=Hyderabad
+
+role= Data Scientist
